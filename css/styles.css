@@ -1,0 +1,27 @@
+body {
+    background-color:#a2abab;
+}
+
+img {
+    height: 10%;
+    width: 10%;
+    border-radius: 50px;
+}
+
+h1 {
+    color: #123c6b;
+    text-align: center;
+}
+
+h2 {
+    color: #b74d29;
+}
+p {
+    color: #202326;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.wrapper {
+    width: 500;
+    height: 50;
+}
